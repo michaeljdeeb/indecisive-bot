@@ -84,6 +84,9 @@ bot.get('IDK', message => {
     bot.send(randomQuestion).then(answer => {
         if(answer.text == 'Yes') {
             recursiveRestaurantQuestion();
+        } else {
+            const msg = new Message().to(id).text('Ability to filter by other parameters coming soon. For now enjoy getting random restaurant suggestions.');
+            bot.send(msg);
         }
     }, () => {
         const msg = new Message().to(id).text('Invalid answer');
