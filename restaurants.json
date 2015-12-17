@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Subway",
+        "service": "Counter Service",
+        "cuisine": ["Sandwiches", "Fast Food"],
+        "isClose": "true"
+    },
+    {
+        "name": "The Cheesecake Factory",
+        "service": "Table Service",
+        "cuisine": "American",
+        "isClose": "false"
+    },
+    {
+        "name": "Domino's Pizza",
+        "service": ["Counter Service", "Delivery"],
+        "cuisine": ["Pizza", "Sandwiches"],
+        "isClose": "false"
+    }
+]
