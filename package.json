@@ -1,0 +1,9 @@
+{
+  "name": "indecisive-bot",
+  "description": "Bot to help indecisive diners",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "telegram-api": "*"
+  }
+}
