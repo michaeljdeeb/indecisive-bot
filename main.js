@@ -85,7 +85,9 @@ bot.get('IDK', message => {
         if(answer.text == 'Yes') {
             recursiveRestaurantQuestion();
         } else {
-            const msg = new Message().to(id).text('Ability to filter by other parameters coming soon. For now enjoy getting random restaurant suggestions.');
+            const msg = new Message().to(id).text('Ability to filter by other parameters coming soon. For now enjoy getting random restaurant suggestions.\n\n' +
+            'If you want to make a bot like me, check out my source!\n' +
+            'https://github.com/michaeljdeeb/indecisive-bot');
             bot.send(msg);
         }
     }, () => {
