@@ -2,10 +2,7 @@
 ===
 A [Telegram](https://telegram.org) bot to help you decide what to eat. Written using [node-telegram-api](https://github.com/mdibaiee/node-telegram-api).
 
-Notes
-------
-- Functionality of this bot is still under development.
-- Pull requests to correct stylizing or inefficiencies are greatly apperciated!
+Pull requests welcomed and greatly apperciated!
 
 Setup
 ------
