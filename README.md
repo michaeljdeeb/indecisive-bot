@@ -6,7 +6,7 @@ Pull requests welcomed and greatly apperciated!
 
 Setup
 ------
-1. [Create](https://core.telegram.org/bots#create-a-new-bot) a new bot by chatting with [@TheBotFather](https://telegram.me/botfather) and keep the token handy.
+1. [Create](https://core.telegram.org/bots#create-a-new-bot) a new bot by chatting with [@BotFather](https://telegram.me/botfather) and keep the token handy.
 2. Populate [restaurants.json](restaurants.json) with content relevant to you.
 3. Install [Node.js & npm](https://nodejs.org)
 4. `git clone https://github.com/michaeljdeeb/indecisive-bot`
