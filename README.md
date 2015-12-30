@@ -12,7 +12,7 @@ Setup
 4. `git clone https://github.com/michaeljdeeb/indecisive-bot`
 5. `cd /path/to/project/`
 6. `npm install`
-5. `TELEGRAM_BOT_TOKEN='YOUR_BOT_TOKEN' node main.js` where YOUR_BOT_TOKEN is replaced by what you were given by [@TheBotFather](https://telegram.me/botfather)
+5. `TELEGRAM_BOT_TOKEN='YOUR_BOT_TOKEN' node main.js` where YOUR_BOT_TOKEN is replaced by what you were given by [@BotFather](https://telegram.me/botfather)
 6. Type 'IDK' to your bot.
 
 Demo
